@@ -1,0 +1,23 @@
+{
+  "name": "mongoexpressapi",
+  "version": "1.0.0",
+  "description": "azza mongoexpressapi tut",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawungrana/mongoexpressapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawungrana/mongoexpressapi/issues"
+  },
+  "homepage": "https://github.com/sawungrana/mongoexpressapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
